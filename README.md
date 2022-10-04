@@ -2,7 +2,7 @@
 
 ____
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pertusatti22&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pertusatti22&show_icons=true&theme=synthwave)]
 
 ### Welcome to my Github, I'm Jack.
 
