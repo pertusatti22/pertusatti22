@@ -2,6 +2,8 @@
 
 ____
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pertusatti22)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Welcome to my Github, I'm Jack.
 
 - 🔭 I’m currently working as Business Analyst on Financial Projects
