@@ -7,7 +7,7 @@ ____
 ### Welcome to my Github, I'm Jack.
 
 - 🔭 I’m currently working as Requirement Analyst on Financial Products
-- 🌱 I’m starting to learning Fluttler and currently learning Java and Spring and English
+- 🌱 I’m currently learning Fluttler, Java, Spring and Angular
 - 👯 I’m looking to collaborate on Financial Projects or games
 - 🤔 I’m looking for help with Deploy and Devops
 - 💬 Ask me about Geek Things
