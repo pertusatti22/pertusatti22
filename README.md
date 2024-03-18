@@ -6,22 +6,22 @@
   
 </h2>
 
-<h3 align="center">A flutter and java developer from Brazil</h3>
+<h3 align="center">A Software Analyst and Developer</h3>
 <br/>
 
 <p align="left">
   
-- 🔭 I’m currently working as **Requirement Analyst on Financial Softwares**
+- 🔭 I’m currently working as **IT Business Analyst on Financial Softwares**
 
-- 🌱 I’m currently learning **Fluttler, Java(Spring) and Angular**
+- 🌱 I’m currently learning **English for Career Development**
 
-- 👯 I’m looking to collaborate on **Financial Projects or games**
+- 👯 I’m looking to collaborate on **Games**
 
-- 🤝 I’m looking for help with **Deploy and Devops**
+- 🤝 I’m looking for help with **Immmigrate to Canadá**
 
-- 💬 Ask me about **Dart or Product Management**
+- 💬 Ask me about **User Stories and Project Management**
 
-- ⚡ Fun fact **I Love *Lord of the Rings and D&D***
+- ⚡ Fun fact **I Have a <a href="https://www.youtube.com/@jack_stryker" target="_blank" rel="noreferrer">Youtube Gameplay Channel </a> ***
   
 </p>
 
